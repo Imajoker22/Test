@@ -1,0 +1,12 @@
+# Ignore VS Code settings
+.vscode/
+
+# Ignore system files
+Thumbs.db
+.DS_Store
+
+# Ignore extension/media files
+*.gif
+
+# Ignore node_modules if you add JS packages later
+node_modules/
